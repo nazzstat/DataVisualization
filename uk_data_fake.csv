@@ -1,0 +1,51 @@
+"","Origin","destination","totals"
+"1","France","Scotland",1100
+"2","France","Wales",500
+"3","France","Northern Ireland",200
+"4","France","England",200
+"5","France","London",2114
+"6","Germany","Scotland",50
+"7","Germany","Wales",100
+"8","Germany","Northern Ireland",50
+"9","Germany","England",2000
+"10","Germany","London",1020
+"11","USA","Scotland",300
+"12","USA","Wales",100
+"13","USA","Northern Ireland",50
+"14","USA","England",2000
+"15","USA","London",526
+"16","Irish Republic","Scotland",50
+"17","Irish Republic","Wales",25
+"18","Irish Republic","Northern Ireland",10
+"19","Irish Republic","England",600
+"20","Irish Republic","London",1801
+"21","Netherlands","Scotland",100
+"22","Netherlands","Wales",25
+"23","Netherlands","Northern Ireland",40
+"24","Netherlands","England",1000
+"25","Netherlands","London",821
+"26","Spain","Scotland",10
+"27","Spain","Wales",10
+"28","Spain","Northern Ireland",10
+"29","Spain","England",200
+"30","Spain","London",1742
+"31","Italy","Scotland",200
+"32","Italy","Wales",40
+"33","Italy","Northern Ireland",10
+"34","Italy","England",600
+"35","Italy","London",907
+"36","Poland","Scotland",200
+"37","Poland","Wales",50
+"38","Poland","Northern Ireland",10
+"39","Poland","England",600
+"40","Poland","London",634
+"41","Belgium","Scotland",100
+"42","Belgium","Wales",40
+"43","Belgium","Northern Ireland",10
+"44","Belgium","England",60
+"45","Belgium","London",800
+"46","Australia","Scotland",90
+"47","Australia","Wales",60
+"48","Australia","Northern Ireland",60
+"49","Australia","England",78
+"50","Australia","London",100
